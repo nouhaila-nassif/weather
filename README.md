@@ -1,16 +1,5 @@
-# weather
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Projet : Application Météo Flutter  
+💻 Affiche la météo actuelle et la prévision sur 24h pour Casablanca (lat 33.5731, long -7.5898)  
+🌱 Utilise l’API Open-Meteo pour récupérer les données météo en temps réel  
+🚀 Fonctionnalités : température, humidité, prévision horaire, message d’accueil selon l’heure  
+🎨 Interface simple et colorée avec fond en dégradé  
